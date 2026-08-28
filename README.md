@@ -4,6 +4,15 @@
 
 🔒 **This is a commercial app. Source Code is Private.**
 
+  <a href="https://play.google.com/store/apps/details?id=com.utkarshh.budgetwise">
+    <img
+      src="https://res.cloudinary.com/di7b9ifgh/image/upload/v1787934054/ookx3hlpnpxinkyxmn2d.png"
+      alt="Download on Google Play"
+      width="140px"
+    /> 
+  </a>
+
+
 <p align="center">
   <img src="https://res.cloudinary.com/di7b9ifgh/image/upload/v1766256815/m5i30binrtv6wxy8dxyr.png" alt="BudgetWise app preview" width="850"/>
 </p>
